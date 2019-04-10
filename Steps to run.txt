@@ -1,0 +1,12 @@
+Please follow the steps below to run:
+
+Start sqlplus and login as your general user created in lab 4 (your first name, your first name+pwd)
+Run script drop.sql
+Run script create_table.sql
+Run script data.sql
+Run script create_view.sql
+Run script salesman_view.sql
+Open cst8276_group_project.xlsm
+In vba code editor, double click Module 1
+Replace UID=nan; PWD=lab4pwd in all connection strings with your own general username and password
+Return to Sheet1, click ¡®Home¡¯ button to run
